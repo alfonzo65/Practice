@@ -1,0 +1,9 @@
+P A1 0
+A B3 0
+A F4 0
+A H3 0
+D E1 0
+D J7 2
+D D5 0
+F A6 0
+F G6 0
