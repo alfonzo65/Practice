@@ -1,0 +1,12 @@
+Buenas tardes.
+
+Aquí les envío el enunciado del segundo proyecto. Algo que no coloqué en el enunciado 
+es que el programa debe mostrar un número después de haber construído el árbol. 
+Este número será la suma de los nodos, antes y después, en donde se necesitó realizar 
+el proceso de rebalanceo. Por ejemplo, en el árbol que aparece en el enunciado se tuvo 
+que hacer un rebalanceo en el nodo 22. Al final del rebalanceo el nodo raíz de ese 
+subárbol fue reemplazado por el nodo 17. La suma que se debería mostrar al final 
+es 22 + 17 = 39.
+
+Por último, el programa debe ser capaz de leer un archivo pasado como un argumento. 
+No deben escribir la ruta del archivo dentro del programa.
